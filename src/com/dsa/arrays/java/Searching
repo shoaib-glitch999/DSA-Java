@@ -1,0 +1,28 @@
+Searching
+1.Linear Search:O(n)
+2.Binary Search:O(log n)
+
+LINEAR SEARCH:(efficient for Small Data Set)
+-----------------------
+Its not mandatory to move with the sorted data 
+     -we can go with sorted and non-sorted
+     
+->Sequential searching,we can perform searching operation on sequential data .
+
+comparing the target with each element throughout the array OR data
+
+BEST Case:O(1)
+AVERAGE Case:O(n)
+WORST Case:O(n)
+
+Practice :
+Find the element index in the given array?
+   12,5,34,66,22,99
+  Target = 22;
+
+BINARY SEARCH:(efficient for Large Data Set)
+----------------------------------
+*The Data Should Be Sorted here.
+if not sorted we should sort that data.
+  if we explicitly sorted the data then the time complexity will become - > O(n log n).
+Divide and Conquer

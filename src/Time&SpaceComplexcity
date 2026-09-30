@@ -1,0 +1,60 @@
+Data -> means raw info
+Data Structures
+ -its an way of storing and organizing the data in efficient way.
+ 
+ 
+ Correctness : No Error
+ Time complexity : time must be small
+ Space complexity : small space
+  
+  
+  Importance of Data structures 
+------------------------------------------------------------------------
+Data Search : Easy
+Processor Speed : not depends on processor speed the algorithm 
+                  should be good which has fast speed and efficiency 
+                  depends on good algo.
+
+Multiple Request : Should handle multiple requests.
+
+
+Algorithm : Step by step procedure to solve a problem.
+
+Unambiguous
+Input
+Output
+Finite Ways
+Feasibility
+Independent
+
+Whats the difference between Algorithm and Program
+
+*Algorithm (how to write the steps)       *Program(how to implement)
+1.Follow logical steps                    Implementing the steps
+2.Independent                             dependent 
+
+
+Types of DS
+----------------------------------------------------------------
+1.primitive DS
+2.Non Primitive
+   i.Linear - Arrays,map,LinkedList,stack and Queues.
+   (Stack and Queues are going to do the "Operations"
+   and Arrays and LinkedList are "Implementation")
+   ii.non-linear - Trees,Graphs,heaps
+   
+   
+         Time and Space Complexity
+=======================================================================
+Time Complexity depends on operations/steps
+
+TC not depends on the Hardware
+   
+TC : function that gives us relationship between whose time grows
+WorstCaseTc = O(n).
+
+On : less than Infinity 
+   
+   
+   
+   
